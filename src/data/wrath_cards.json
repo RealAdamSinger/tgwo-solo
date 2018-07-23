@@ -1,0 +1,22 @@
+[
+  {
+    "id": "stalk",
+    "count": 8
+  },
+  {
+    "id": "wind",
+    "count": 8
+  },
+  {
+    "id": "frost",
+    "count": 10
+  },
+  {
+    "id": "hazard",
+    "count": 4
+  },
+  {
+    "id": "aggression",
+    "count": 2
+  }
+]
